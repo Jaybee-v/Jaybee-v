@@ -2,7 +2,7 @@
 
 
 
-Bienvenue sur mon profil GitHub ! Je suis **Jean-Baptiste**, un développeur web spécialisé en **Node.js**, **Next.js**, et **NestJS**, avec une expertise en **Clean Architecture** et **Test-Driven Development (TDD)**. Passionné par l'innovation et la performance, je m'efforce de fournir des solutions robustes, évolutives et optimisées pour mes clients.
+Bienvenue sur mon profil GitHub ! Je suis **Jean-Baptiste**, un développeur web spécialisé en **Node.js**, **Next.js**, et **NestJS**, avec une expertise en **Clean Architecture**. Passionné par l'innovation et la performance, je m'efforce de fournir des solutions robustes, évolutives et optimisées pour mes clients.
 
 ---
 
