@@ -31,14 +31,7 @@ Bienvenue sur mon profil GitHub ! Je suis **Jean-Baptiste**, un développeur web
 
 ## 🌐 Projets
 
-### 🔗 [Mon boilerplate NestJS](https://github.com/mon-boilerplate-nestjs)
-Un template de base pour mes futurs projets backend en NestJS avec clean architecture, TDD, et CI/CD intégrés.
 
-### 🔗 [Site vitrine pour une entreprise](https://github.com/mon-site-vitrine)
-Un projet full-stack (Next.js/NestJS) pour une entreprise, incluant un back-office pour la gestion des projets et un système d'authentification.
-
-### 🔗 [Compteur animé en Next.js](https://github.com/compteur-anime-nextjs)
-Composant React animé pour afficher un compteur évoluant de 0 à 300, implémenté en Next.js v14.
 
 ---
 
